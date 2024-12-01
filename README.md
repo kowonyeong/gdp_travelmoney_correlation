@@ -52,4 +52,6 @@
   * 관광지식정보시스템
   * 국가통계포털(KOSIS)
   * 연합뉴스
+ 
+ [소스코드](https://github.com/kowonyeong/gdp_travelmoney_correlation/blob/master/project.ipynb)
 
