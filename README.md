@@ -7,7 +7,7 @@
 
     그래서 관광수지란 무엇이고 적자가 나면 경제에 어떠한 영향을 끼칠지 궁금하여 분석하게 되었다.
     
-* 프로젝트 일정
+* 프로젝트 일정(9월 12일 ~ 12월 1일)
   * 9월 12일 ~ 9월 28일 주제 설정
     
   지역별 요양 시설 입소 현황 분석 -> 관광지 수요 예측 ->  관광수지와 GDP의 상관관계 분석
@@ -29,9 +29,10 @@
   <br>
   <br>
   * ~ 11월 27일 발표용 ppt와 제출용 ppt 작성
+
+  [제출용 ppt](https://github.com/kowonyeong/gdp_travelmoney_correlation/blob/master/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%A0%9C%EC%B6%9C%EC%9E%90%EB%A3%8C.pdf)
   <br>
   <br>
-  
   * ~ 12월 1일 깃허브 업로드 및 발표 연습
  <br>
 
